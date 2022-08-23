@@ -1,6 +1,6 @@
 # DataAnalysisWithTree
 
-This work reproduces a simple analysis that can be performed on the database with decision tree and random forest algorithms.
+This work reproduces a simple analysis and forecasting that can be performed on the database with decision tree and random forest algorithms.
 
 The database used refers to hepatitis data, which was taken from https://github.com/zahangirbd/medical_data_for_classification/tree/master/data/Hepatitis.
 
